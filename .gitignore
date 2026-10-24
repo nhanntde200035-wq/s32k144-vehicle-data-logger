@@ -1,0 +1,17 @@
+# Build output (S32 Design Studio)
+Debug*/
+Release*/
+*.elf
+*.o
+*.d
+*.map
+*.srec
+*.hex
+*.bin
+
+# IDE / OS
+.metadata/
+RemoteSystemsTempFiles/
+Thumbs.db
+.DS_Store
+__pycache__/
